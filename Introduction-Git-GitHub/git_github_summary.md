@@ -1,6 +1,6 @@
 # :octopus:Git e GitHub:octopus:
 
-## :octopus: Entendo o que é o Git e sua importância para o usuário 
+## :octopus: Entenda o que é o Git e sua importância para o usuário 
 
 :mag: **É um sistema de controle Open Source utilizado para controlar o histórico de alterações de** **arquivos e principalmente de projetos de desenvolvimento de software.**
 
